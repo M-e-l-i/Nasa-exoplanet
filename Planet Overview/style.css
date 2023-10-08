@@ -1,0 +1,183 @@
+.planet-overview {
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.planet-overview .div {
+    background-image: url(./planet-overview.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 1024px;
+    position: relative;
+    width: 1440px;
+}
+
+.planet-overview .overlap {
+    height: 835px;
+    left: 40px;
+    position: absolute;
+    top: 165px;
+    width: 974px;
+}
+
+.planet-overview .overlap-group {
+    height: 835px;
+    left: 20px;
+    position: absolute;
+    top: 0;
+    width: 954px;
+}
+
+.planet-overview .rectangle {
+    height: 598px;
+    left: 277px;
+    object-fit: cover;
+    position: absolute;
+    top: 18px;
+    width: 677px;
+}
+
+.planet-overview .know-more-button {
+    background-color: #ffffff80;
+    border-radius: 20px;
+    height: 56px;
+    left: 533px;
+    position: absolute;
+    top: 317px;
+    width: 208px;
+}
+
+.planet-overview .text-wrapper {
+    color: #090909;
+    font-family: "Azeret Mono-SemiBold", Helvetica;
+    font-size: 30px;
+    font-weight: 600;
+    left: 4px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 5px;
+    white-space: nowrap;
+    width: 204px;
+}
+
+.planet-overview .novara {
+    background-color: #d9d9d926;
+    border-radius: 20px;
+    height: 267px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 332px;
+}
+
+.planet-overview .overlap-group-2 {
+    height: 158px;
+    left: 39px;
+    position: absolute;
+    top: 70px;
+    width: 238px;
+}
+
+.planet-overview .text-wrapper-2 {
+    color: #ffffff;
+    font-family: "Azeret Mono-SemiBold", Helvetica;
+    font-size: 30px;
+    font-weight: 600;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 238px;
+}
+
+.planet-overview .rectangle-2 {
+    background-color: #ffffff80;
+    border-radius: 20px;
+    height: 56px;
+    left: 30px;
+    position: absolute;
+    top: 102px;
+    width: 208px;
+}
+
+.planet-overview .text-wrapper-3 {
+    color: #090909;
+    font-family: "Azeret Mono-SemiBold", Helvetica;
+    font-size: 30px;
+    font-weight: 600;
+    left: 34px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 107px;
+    white-space: nowrap;
+    width: 204px;
+}
+
+.planet-overview .text-wrapper-4 {
+    color: #ffffff;
+    font-family: "Azeret Mono-SemiBold", Helvetica;
+    font-size: 30px;
+    font-weight: 600;
+    left: 55px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 17px;
+    width: 222px;
+}
+
+.planet-overview .seraphia {
+    background-color: #d9d9d926;
+    border-radius: 20px;
+    height: 267px;
+    left: 494px;
+    position: absolute;
+    top: 568px;
+    width: 332px;
+}
+
+.planet-overview .back-button {
+    all: unset;
+    background-color: #d9d9d93d;
+    border-radius: 20px;
+    box-sizing: border-box;
+    height: 86px;
+    left: 0;
+    position: absolute;
+    top: 740px;
+    width: 212px;
+}
+
+.planet-overview .text-wrapper-5 {
+    color: #090909;
+    font-family: "Azeret Mono-SemiBold", Helvetica;
+    font-size: 30px;
+    font-weight: 600;
+    left: 26px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 23px;
+    width: 160px;
+}
+
+.planet-overview .oceana {
+    background-color: #d9d9d926;
+    border-radius: 20px;
+    height: 267px;
+    left: 1048px;
+    position: absolute;
+    top: 166px;
+    width: 332px;
+}
