@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/spaceapps23_1/static/css/main.f50dfadd.css",
+    "main.js": "/spaceapps23_1/static/js/main.f4e20675.js",
+    "static/js/787.2bc83f02.chunk.js": "/spaceapps23_1/static/js/787.2bc83f02.chunk.js",
+    "static/media/hero-banner.mp4": "/spaceapps23_1/static/media/hero-banner.7dfbc6f6f64ae69aca04.mp4",
+    "static/media/Astralis.png": "/spaceapps23_1/static/media/Astralis.fda18a7083e690cb6ec9.png",
+    "static/media/site-bg-1.jpg": "/spaceapps23_1/static/media/site-bg-1.7a2672c60355d46a0bb5.jpg",
+    "index.html": "/spaceapps23_1/index.html",
+    "main.f50dfadd.css.map": "/spaceapps23_1/static/css/main.f50dfadd.css.map",
+    "main.f4e20675.js.map": "/spaceapps23_1/static/js/main.f4e20675.js.map",
+    "787.2bc83f02.chunk.js.map": "/spaceapps23_1/static/js/787.2bc83f02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f50dfadd.css",
+    "static/js/main.f4e20675.js"
+  ]
+}
